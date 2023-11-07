@@ -3,7 +3,7 @@
 - I am convenient and easy to use.
 - Here are some of the functions I can do:
   - Submit a transaction
-  - Fetech transaction details
+  - Fetch transaction details
   - ...
 
 <!---
